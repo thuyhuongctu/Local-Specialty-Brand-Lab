@@ -1,0 +1,42 @@
+{
+  "title": "Xưởng Nhãn Hiệu Đặc Sản / Local Specialty Brand Lab: case brief and guided worksheet for branding and marketing-mix assignments",
+  "upload_type": "software",
+  "language": "vie",
+  "creators": [
+    {
+      "name": "Do, Thuy Huong",
+      "affiliation": "Can Tho University",
+      "orcid": "0000-0002-7711-2487"
+    },
+    {
+      "name": "Phan, Anh Tu",
+      "affiliation": "Can Tho University",
+      "orcid": "0000-0003-0667-3137"
+    }
+  ],
+  "description": "<p>Bộ học liệu gồm đề bài tình huống chương 5 (kèm infographic tiêu chí chọn đặc sản) và phiếu làm bài có hướng dẫn cho bài tình huống «Xây dựng nhãn hiệu &amp; Marketing mix»: sinh viên chọn đặc sản địa phương, đặt tên và slogan, thiết kế 4P và xuất Thẻ thương hiệu một trang A4; có gợi ý khi gõ, mã thẻ băm từ nội dung và bảng chấm thang 10 cho giảng viên. Chạy hoàn toàn trong trình duyệt.</p><p>Teaching materials: the chapter-5 case brief with a product-criteria infographic, and a guided worksheet for the branding and marketing-mix (4P) assignment: students pick a local specialty, build a brand, design the 4P and export a one-page brand card, with live writing tips, a content-hash card code and a 10-point marking guide. Runs entirely in the browser. Part of the BizOn ecosystem: <a href=\"https://bizonland.com/xuong-nhan-hieu.html\">bizonland.com/xuong-nhan-hieu.html</a>.</p>",
+  "access_right": "open",
+  "license": "other-closed",
+  "keywords": [
+    "branding",
+    "marketing mix",
+    "4P",
+    "local specialty",
+    "entrepreneurship education",
+    "OCOP",
+    "Vietnam"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://bizonland.com/xuong-nhan-hieu.html",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "10.5281/zenodo.21592241",
+      "relation": "isPartOf",
+      "scheme": "doi"
+    }
+  ],
+  "notes": "© 2026 Do Thuy Huong & Phan Anh Tu (tool). Case brief and infographic © 2026 MSc Do Thuy Huong. All rights reserved. Fonts under SIL OFL 1.1."
+}
