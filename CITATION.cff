@@ -13,6 +13,14 @@ authors:
     given-names: "Anh Tu"
     affiliation: "Can Tho University"
     orcid: "https://orcid.org/0000-0003-0667-3137"
+doi: 10.5281/zenodo.23731421
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23731422
+    description: "Version DOI – v1.0.0"
+  - type: doi
+    value: 10.5281/zenodo.23731421
+    description: "Concept DOI (mọi phiên bản / all versions)"
 repository-code: "https://github.com/thuyhuongctu/Local-Specialty-Brand-Lab"
 url: "https://bizonland.com/xuong-nhan-hieu.html"
 keywords:

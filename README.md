@@ -1,5 +1,7 @@
 # Xưởng Nhãn Hiệu Đặc Sản · Local Specialty Brand Lab
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23731421.svg)](https://doi.org/10.5281/zenodo.23731421)
+
 Bộ học liệu cho bài tình huống **«Xây dựng nhãn hiệu & Marketing mix»** (chương 5, làm cá nhân, lấy điểm chuyên cần), gồm hai phần đi liền nhau:
 
 1. **Đề bài** (`de-bai/`): tình huống, yêu cầu, gợi ý, ví dụ minh hoạ và infographic «Tiêu chí lựa chọn sản phẩm đặc sản địa phương».
@@ -27,7 +29,9 @@ Mở `index.html` trong trình duyệt. Kiểm tra phần logic: `node test/bran
 
 ## Trích dẫn · Citation
 
-Xem `CITATION.cff` (nút «Cite this repository» trên GitHub).
+Đỗ, T. H., & Phan, A. T. (2026). *Xưởng Nhãn Hiệu Đặc Sản / Local Specialty Brand Lab* (v1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.23731422
+
+DOI chung cho mọi phiên bản / concept DOI: [10.5281/zenodo.23731421](https://doi.org/10.5281/zenodo.23731421). Xem thêm `CITATION.cff` (nút «Cite this repository»).
 
 ## Bản quyền · Copyright
 
