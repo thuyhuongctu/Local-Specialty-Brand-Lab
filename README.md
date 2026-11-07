@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23731421.svg)](https://doi.org/10.5281/zenodo.23731421)
 
-Bộ học liệu cho bài tình huống **«Xây dựng nhãn hiệu & Marketing mix»** (chương 5, làm cá nhân, lấy điểm chuyên cần), gồm hai phần đi liền nhau:
+Bộ học liệu cho bài tình huống **«Xây dựng nhãn hiệu & Marketing mix»**, gồm hai phần đi liền nhau:
 
 1. **Đề bài** (`de-bai/`): tình huống, yêu cầu, gợi ý, ví dụ minh hoạ và infographic «Tiêu chí lựa chọn sản phẩm đặc sản địa phương».
 2. **Xưởng Nhãn Hiệu Đặc Sản** (`index.html`): phiếu làm bài có hướng dẫn – sinh viên chọn đặc sản, đặt tên và slogan, thiết kế 4P, rồi xuất **Thẻ thương hiệu** một trang A4 để nộp.
